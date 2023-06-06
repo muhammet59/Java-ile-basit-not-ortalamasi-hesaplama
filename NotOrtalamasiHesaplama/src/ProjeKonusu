@@ -1,0 +1,11 @@
+Java ile Fizik, Matematik, Türkçe, Kimya, Müzik, Tarih derslerinin sınav puanlarını kullanıcıdan alan ve bu derslerin ortalamalarını hesaplayıp ekrana bastırılan programı yazın.
+
+
+Örnek Çıktı
+        Fizik Notunuz : 70
+        Matematik Notunuz : 40
+        Türkçe Notunuz : 30
+        Kimya Notunuz : 100
+        Müzik Notunuz : 60
+        Tarih Notunuz : 80
+        Ortalamanız : 63.0
